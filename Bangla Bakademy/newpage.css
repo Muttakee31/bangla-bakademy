@@ -1,0 +1,36 @@
+#word {
+    padding-top: 128px;
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+}
+
+#define {
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: center;
+    color: green;
+    font-size: 25px;
+    margin-bottom: 14px;
+}
+
+#example {
+    padding-left: 130px;
+    padding-right: 130px;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
+
+.footer {
+    background: rgb(0, 116, 160);
+    text-align: center;
+    color:whitesmoke;
+    font-size: 22px;
+}
+
+a {
+    color: inherit;
+    text-decoration:none;
+    font-size: 17px;
+}
