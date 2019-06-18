@@ -37,7 +37,6 @@ xml.onreadystatechange = function() {
             document.getElementById("example").innerHTML = "একটি প্রায়োগিক দৃশ্য: " + ex;
         }
         else {
-            //console.log("baalamar");
             var $rand = Math.floor((Math.random() * 15) + 1);
             var $data = dictionary[$rand];
             ///console.log($data);
